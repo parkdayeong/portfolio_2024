@@ -43,5 +43,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "안녕하세요, 저는 박다영입니다.",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC"
 }
