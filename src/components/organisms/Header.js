@@ -40,8 +40,8 @@ function Header(props) {
         </li>
         <li>
           {/* eslint-disable-next-line react/jsx-no-target-blank */}
-          <a href='#' target='_blank'>
-            <span>Github</span>
+          <a href='https://blog.naver.com/molra0000' target='_blank'>
+            <span>Blog</span>
             <i className='fab fa-github'></i>
           </a>
         </li>
